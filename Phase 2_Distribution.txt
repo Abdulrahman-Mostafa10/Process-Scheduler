@@ -1,0 +1,3 @@
+Mostafa : O/P file, killing, forking, pLoad and Utilization.
+Karim : Rest of UI Class, Migration, BLK List opertaions and Scheduling Algorithms in SCHEDULER CLASS.
+Zeyad : Scheduling Algorithms(RUN) in PROCESSOR CLASS, Work stealing.
